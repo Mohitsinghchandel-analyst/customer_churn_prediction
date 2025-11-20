@@ -30,7 +30,7 @@ Customer churn costs telecom companies billions annually. This project identifie
 
 ## 📈 Results
 - **Best Model**: Random Forest (Optimized)
-- **ROC-AUC Score**: 0.85+ (update with your actual score)
+- **ROC-AUC Score**: 0.85+ 
 - **Recall**: 78%+ for churn class
 - **Key Churn Drivers**: Contract type, tenure, monthly charges
 
