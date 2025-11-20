@@ -1,5 +1,6 @@
 ##                                                         Telecom Customer Churn Prediction
 <img width="1200" height="338" alt="image" src="https://github.com/user-attachments/assets/ab80875b-b03c-4284-833a-058c253b2c02" />
+
 ## 📊 Project Overview
 Comprehensive end-to-end machine learning project analyzing customer churn in the telecommunications industry. Implements advanced feature engineering, handles class imbalance with SMOTE, and compares multiple ML algorithms with hyperparameter tuning.
 
