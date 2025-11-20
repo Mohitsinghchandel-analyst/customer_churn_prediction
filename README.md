@@ -39,6 +39,7 @@ Demographic info about customers – gender, age range, and if they have partner
 1.Churn Destribution
 <img width="1256" height="490" alt="image" src="https://github.com/user-attachments/assets/aaa007d2-6242-4f87-889f-9579dee91526" />
 26.5 % of customers switched to another firm.
+
 2.Churn vs categorical features
    <img width="1989" height="989" alt="image" src="https://github.com/user-attachments/assets/65f777b5-0f36-448d-8612-f64ce75ad546" />
 
