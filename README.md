@@ -38,6 +38,7 @@ Demographic info about customers – gender, age range, and if they have partner
  ## Few glimpses of EDA:
 
 <img width="1256" height="490" alt="image" src="https://github.com/user-attachments/assets/aaa007d2-6242-4f87-889f-9579dee91526" />
+26.6 % of customers switched to another firm.
 
   
 
