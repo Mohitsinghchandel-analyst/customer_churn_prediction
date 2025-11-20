@@ -1,7 +1,5 @@
 # customer_churn_prediction
-Customer Churn Prediction - Telco Industry
-# Customer Churn Prediction - Telco Industry
-
+Telecom Customer Churn Prediction
 ## 📊 Project Overview
 Comprehensive end-to-end machine learning project analyzing customer churn in the telecommunications industry. Implements advanced feature engineering, handles class imbalance with SMOTE, and compares multiple ML algorithms with hyperparameter tuning.
 
