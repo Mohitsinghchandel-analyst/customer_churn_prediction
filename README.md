@@ -34,6 +34,8 @@ Demographic info about customers – gender, age range, and if they have partner
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 - Matplotlib, Seaborn
+
+ ## Few glimpses of EDA:
   
 
 ## 🔍 Key Features
