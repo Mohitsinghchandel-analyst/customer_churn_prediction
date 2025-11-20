@@ -43,6 +43,10 @@ Demographic info about customers – gender, age range, and if they have partner
 2.Churn vs categorical features
    <img width="1989" height="989" alt="image" src="https://github.com/user-attachments/assets/65f777b5-0f36-448d-8612-f64ce75ad546" />
 
+3. Top 15 important features
+   <img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/545dc00e-f0c0-40b2-846d-1fb497b3b07d" />
+
+
 
   
 
